@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Md.Miner Hossain Rimon</h1>
 <h3 align="center">A passionate app developer from Bangladesh</h3>
-<div align="center"> <img src="https://github.com/Miner1033/Miner1033/edit/main/README.png"> </div>
+<div align="center"> <img src="[https://github.com/Miner1033/Miner1033/edit/main/README](https://github.com/Miner1033/Miner1033/blob/main/README.md).png"> </div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=miner1033&label=Profile%20views&color=0e75b6&style=flat" alt="miner1033" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=miner1033" alt="miner1033" /></a> </p>
