@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Md. Miner Hossain Rimon</h1>
-<h3 align="center">A passionate app developer from Bangladesh</h3>
+<h3 align="center">CSE Student</h3>
 
 <img align="right" alt="Coding" width="300" src="https://i.gifer.com/6tXM.gif">
 
