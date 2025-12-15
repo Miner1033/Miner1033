@@ -1,206 +1,304 @@
-<h1 align="center">Hi 👋, I'm Md. Miner Hossain Rimon</h1>
-<h3 align="center">4th Year CSE Student | MERN Stack Developer | ML Researcher</h3>
+# 👨‍💻 Hi, I'm Md. Miner Hossain Rimon
 
-<img align="right" alt="Coding" width="300" src="https://innobyte.com/app/uploads/2017/09/giphydebugging.gif">
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&random=false&width=835&lines=AI+Automation+Developer;MERN+Stack+Specialist;Machine+Learning+Researcher;Full+Stack+Developer)](https://git.io/typing-svg)
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=miner1033&label=Profile%20views&color=0e75b6&style=flat" alt="miner1033" />
-</p>
+</div>
 
-- 🔭 I'm currently working on **MERN Stack Projects & ML Research**
-- 🌱 I'm currently learning **React.js, Node.js, Express.js, MongoDB, Machine Learning**
-- 👯 I'm looking to collaborate on **Full-stack Web Development & ML Research Projects**
-- 🎯 Focus areas: **Frontend Development, Backend APIs, Database Design, Machine Learning**
-- 🔬 Research Interests: **Machine Learning, Data Science, AI Applications**
-- 💬 Ask me about **C++, Java, Python, JavaScript, React, Node.js, ML Algorithms**
-- 📫 How to reach me: **minerhossainrimon1033@gmail.com**
-- ⚡ Fun fact: **I love building full-stack applications, researching ML algorithms, and solving complex problems**
+🤖 AI Automation Developer | 🚀 MERN Stack Specialist | 🎓 4th Year CSE Student | 🔬 ML Researcher
 
-<br/>
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=miner1033&color=blueviolet&style=for-the-badge)
+[![GitHub followers](https://img.shields.io/github/followers/miner1033?style=for-the-badge&color=blue)](https://github.com/miner1033)
+[![GitHub Stars](https://img.shields.io/github/stars/miner1033?style=for-the-badge&color=yellow)](https://github.com/miner1033)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/md.miner hossain rimon" target="https://www.linkedin.com/in/md-miner-hossain-rimon-831490327/">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://fb.com/miner hossain rimon" target="https://www.facebook.com/minerhossainrimon">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-</p>
-
-<br/>
-
-<h3 align="left">Languages and Tools:</h3>
-
-**🌟 MERN Stack Technologies:**
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-</p>
-
-**Frontend Development:**
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-</p>
-
-**Backend Development:**
-<p align="left">
-  <a href="https://jwt.io/" target="_blank" rel="noreferrer">
-    <img src="https://jwt.io/img/pic_logo.svg" alt="JWT" width="40" height="40"/>
-  </a>
-  <a href="https://www.postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40"/>
-  </a>
-</p>
-
-**Database & Cloud:**
-<p align="left">
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.netlify.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/netlify/netlify-icon.svg" alt="Netlify" width="40" height="40"/>
-  </a>
-  <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="Vercel" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="Heroku" width="40" height="40"/>
-  </a>
-</p>
-
-**Machine Learning & Data Science:**
-<p align="left">
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-  </a>
-  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-  </a>
-  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://matplotlib.org/3.3.3/_static/logo2_compressed.svg" alt="Matplotlib" width="40" height="40"/>
-  </a>
-  <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40"/>
-  </a>
-</p>
-
-**Programming Languages:**
-<p align="left">
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
-
-**Mobile Development:**
-<p align="left">
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/>
-  </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/>
-  </a>
-  <a href="https://kotlinlang.org" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/>
-  </a>
-</p>
-
-**Other Tools:**
-<p align="left">
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/>
-  </a>
-</p>
-
-<br/>
-
-<h3 align="left">🚀 Current Focus:</h3>
-
-- **MERN Stack Development**: Building full-stack web applications
-- **Machine Learning Research**: Exploring algorithms, data analysis, and AI applications
-- **Final Year Project**: Working on innovative CSE project combining web dev and ML
-- **API Development**: Creating RESTful APIs with Node.js and Express
-- **Database Design**: Optimizing MongoDB and MySQL databases
-- **Frontend Frameworks**: Mastering React.js and modern JavaScript
-- **Data Science**: Working with Python libraries for data analysis and visualization
-
-<br/>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miner1033&show_icons=true&locale=en&layout=compact" alt="miner1033" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miner1033&show_icons=true&locale=en" alt="miner1033" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miner1033&" alt="miner1033" /></p>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=miner1033&limit=5&theme=flat&combine_all_yearly_contributions=true)
-
-<p align="left" style="margin-bottom: 20px;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=miner1033" alt="miner1033" />
-  </a>
-</p>
+</div>
 
 ---
-<p align="center">
-  <i>⚡ "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
-</p>
+
+## 📌 About Me
+
+🎯 **Passionate Developer** with expertise in building intelligent automation systems and full-stack web applications. Currently pursuing Computer Science & Engineering while actively contributing to AI, web development, and machine learning projects.
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+### 🔭 Currently Working On
+- **AI Automation Systems** using n8n, Zapier, and Make.com with CRM integrations
+- **MERN Stack Applications** with modern React features and optimized backends
+- **Machine Learning Research** for my final year project and practical applications
+- **API Development & Database Optimization** for scalable solutions
+
+### 🌱 Currently Learning
+- Advanced React patterns (Hooks, Context, Suspense)
+- Microservices architecture with Node.js
+- Advanced AI automation workflows
+- Machine learning model deployment
+- Cloud-native development (AWS, Docker)
+
+### 👯 Looking to Collaborate On
+- AI-powered automation platforms
+- Full-stack web applications
+- Open-source ML/AI projects
+- Innovative CSE research projects
+- SaaS products with automation features
+
+### 🎯 Focus Areas
+- **AI/ML Automation**: Workflow automation, intelligent systems
+- **Full-Stack Development**: React, Node.js, MongoDB, Express
+- **Backend Engineering**: REST APIs, database design, server optimization
+- **Research**: AI applications, ML algorithms, data science
+
+### 📫 How to Reach Me
+- **Email**: minerhossainrimon1033@gmail.com
+- **LinkedIn**: [Md. Miner Hossain Rimon](https://www.linkedin.com/in/md-miner-hossain-rimon-831490327/)
+- **GitHub**: [@miner1033](https://github.com/miner1033)
+- **Location**: 📍 Sylhet, Bangladesh
+
+### ⚡ Fun Fact
+I enjoy solving complex problems by combining AI automation with traditional development. When not coding, I'm probably researching new ML algorithms or optimizing existing workflows!
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+<details open>
+<summary><b>🤖 AI Automation</b></summary>
+<br>
+
+![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)
+![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=Zapier&logoColor=white)
+![Make](https://img.shields.io/badge/Make.com-6D00CC?style=for-the-badge&logo=integromat&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🌐 MERN Stack</b></summary>
+<br>
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>💻 Frontend Development</b></summary>
+<br>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🔧 Backend & APIs</b></summary>
+<br>
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=for-the-badge&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>🗄️ Databases</b></summary>
+<br>
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+</details>
+
+<details open>
+<summary><b>🤖 Machine Learning</b></summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>📱 Mobile Development</b></summary>
+<br>
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+
+</details>
+
+<details open>
+<summary><b>⚙️ Other Tools</b></summary>
+<br>
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</details>
+
+---
+
+## 📊 GitHub Stats & Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=miner1033&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miner1033&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="170"/>
+</div>
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=miner1033&limit=5&theme=tokyonight&hide_border=true" alt="Top Contributed Repos" width="60%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=miner1033&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="98%"/>
+</div>
+
+---
+
+## 🏆 GitHub Trophies & Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=miner1033&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
+</div>
+
+---
+
+## 📝 Featured Projects
+
+<div align="center">
+
+| 🤖 AI Automation System | 🛒 E-commerce Platform | 🔬 ML Research |
+|:---:|:---:|:---:|
+| ![AI](https://img.shields.io/badge/Status-In%20Development-yellow?style=for-the-badge) | ![Ecommerce](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge) | ![ML](https://img.shields.io/badge/Status-Ongoing-blue?style=for-the-badge) |
+
+</div>
+
+### 🤖 AI Automation System
+*Intelligent workflow automation platform using n8n with CRM integration*
+
+- **Tech Stack**: n8n, Node.js, MongoDB, REST APIs
+- **Key Features**: Multi-platform automation, CRM synchronization, real-time monitoring
+- **Highlights**: 
+  - 🔄 Seamless integration with multiple platforms
+  - 📊 Real-time analytics dashboard
+  - ⚡ High-performance workflow engine
+- **Status**: 🔄 In Development
+
+### 🛒 E-commerce MERN Application
+*Full-featured e-commerce platform with comprehensive admin dashboard*
+
+- **Tech Stack**: React, Node.js, Express, MongoDB, JWT
+- **Key Features**: Payment integration, user authentication, admin panel, inventory management
+- **Highlights**:
+  - 💳 Secure payment processing
+  - 🔐 JWT-based authentication
+  - 📦 Real-time inventory tracking
+  - 📱 Responsive design
+- **Status**: ✅ Completed
+
+### 🔬 ML Research Project
+*Machine learning model for predictive analysis and data-driven insights*
+
+- **Tech Stack**: Python, TensorFlow, scikit-learn, Pandas
+- **Key Features**: Data preprocessing, model training, visualization, evaluation metrics
+- **Highlights**:
+  - 📈 Advanced statistical analysis
+  - 🎯 High accuracy predictions
+  - 📊 Interactive visualizations
+- **Status**: 🚀 Ongoing
+
+---
+
+## 💼 Work Experience & Education
+
+### 🎓 Education
+**Bachelor of Science in Computer Science & Engineering**
+- 📚 Currently in 4th Year
+- 🎯 Focus: AI, ML, Full-Stack Development
+- 📍 Location: Bangladesh
+
+### 💻 Experience Highlights
+- ✅ Built multiple AI automation workflows
+- ✅ Developed full-stack MERN applications
+- ✅ Conducted machine learning research
+- ✅ Created RESTful APIs for scalable systems
+
+---
+
+## 📈 Coding Activity
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<div align="center">
+  
+**📊 Weekly Development Breakdown**
+
+```text
+JavaScript   12 hrs 30 mins  ████████████░░░░░   45.2%
+Python       8 hrs 15 mins   ████████░░░░░░░░░   30.8%
+TypeScript   4 hrs 20 mins   ████░░░░░░░░░░░░░   15.7%
+HTML/CSS     2 hrs 10 mins   ██░░░░░░░░░░░░░░░    8.3%
+```
+
+</div>
+
+---
+
+## 🌟 Recent Activity
+
+<!-- RECENT_ACTIVITY:start -->
+<!-- RECENT_ACTIVITY:end -->
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-miner-hossain-rimon-831490327/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:minerhossainrimon1033@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miner1033)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/miner1033)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💬 Ask me about
+**AI Automation | MERN Stack | Machine Learning | API Development | Database Design**
+
+### 💡 Quote of the Day
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+### 💡 "First, solve the problem. Then, write the code." - John Johnson
+
+### 🎯 2024 Goals
+- ✅ Master advanced AI automation techniques
+- ✅ Contribute to 10+ open-source projects
+- ✅ Complete ML research paper
+- ✅ Build production-ready SaaS applications
+
+### 📬 Open for Collaboration & Opportunities!
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+**Thanks for visiting! Let's build something amazing together! 🚀**
+
+</div>
